@@ -11,35 +11,20 @@
 📌 My technical skills include :
 
  <!-- - 💻 *Languages* (**`C, Java, Python, Swift)-->
- - 💻 *Languages*  
- <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
- <img align="center" height="30" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
- <img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> 
+ - 💻 *Languages*   <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> 
 
- - 💻 *Front-End Development*
- <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> 
- <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/>
- <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> 
- <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/>
- <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> 
+ - 💻 *Front-End Development*<img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/><img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> 
 
-
- - 💻 *Backend Development and Database Management*  
- <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/>
- <img align="center" height="30" src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/> 
-
+ - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/><img align="center" height="30" src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/> 
 
 <br/>
 
 📌 Contact Me :
 <!--https://img.shields.io/badge/leetcode-%2300e600.svg?&style=for-the-badge&logo=leetcode&logoColor=black"-->
-
 [<img align="center" height="50" src="https://img.icons8.com/fluent/144/000000/resume-website.png"/>](https://github.com/minhbac333studyus)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/minh-anh-le-20b85419a/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/JAYNIL1611)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/profile.php?id=100038019172874)
 [<img align="center" height="35" src="https://bit.ly/jaynil_leetcode_logo"/>](https://leetcode.com/minhbac333studyus/)
-
 <br/><br/><br/>
 
 
