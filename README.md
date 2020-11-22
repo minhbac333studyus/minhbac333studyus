@@ -3,19 +3,31 @@
 
 ## Hello there! 👋🏻
 
-📌 I am **Anh Minh Le**, pursuing `B.Tech in I.T. Engineering` from *Sardar Patel Institute of Technology, Mumbai*. I am interested in learning new technologies and build exciting real-world projects.
+📌 I am **Anh Minh Le**, pursuing `Bachelor of Science` from *Angelo State University - San Angelo, Texas*. I am interested in learning new technologies and build exciting real-world projects.
 
 📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. **Self-learning ability** and `passion for my work` are the key factors towards my success.
 
 
 📌 My technical skills include :
 
- <!-- - 💻 *Languages* (**`C, Java, Python, R`**)-->
- - 💻 *Languages*  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> <img align="center" height="25" src="https://www.r-project.org/Rlogo.png" />
+ <!-- - 💻 *Languages* (**`C, Java, Python, Swift)-->
+ - 💻 *Languages*  
+ <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> 
 
- - 💻 *Front-End Development* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/bootstrap.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/angularjs.png"/> 
+ - 💻 *Front-End Development*
+ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> 
+ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/>
+ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> 
+ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/>
+ <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> 
 
- - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/nodejs.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/> <img align="center" height="30" src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/postgreesql.png"/> <img align="center" height="30" src="https://micronaut.io/images/micronaut_mini_copy_tm.svg"/>
+
+ - 💻 *Backend Development and Database Management*  
+ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/>
+ <img align="center" height="30" src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/> 
+
 
 <br/>
 
