@@ -5,7 +5,7 @@
 
 📌 I am **Anh Minh Le**, pursuing `Bachelor of Science` from *Angelo State University - San Angelo, Texas*. I am interested in learning new technologies and build exciting real-world projects.
 
-📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. **Self-learning ability** and `passion for my work` are the key factors towards my success.
+📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. `Self-learning ability` and `passion for my work` are the key factors towards my success.
 
 
 📌 My technical skills include :
