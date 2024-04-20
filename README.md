@@ -29,13 +29,13 @@
 
 <img align="center" height="30" src="https://miro.medium.com/v2/resize:fit:360/1*h78te1Nr-bUgqCtmFylC_g.png"/> AWS EC2
 
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS Lambda
+<img align="center" height="30" src="https://www.gliffy.com/sites/default/files/image/2020-06/AWS-Lambda_Lambda-Function_dark-bg_0.png"/> AWS Lambda
 
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> API Gateway
+<img align="center" height="30" src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-423x512-70e4i3mi.png"/> API Gateway
 
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS SQS
+<img align="center" height="30" src="https://static-00.iconduck.com/assets.00/aws-sqs-simple-queue-service-icon-424x512-lkqfmttm.png"/> AWS SQS
 
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS SES
+<img align="center" height="30" src="[https://static-00.iconduck.com/assets.00/aws-ses-simple-email-service-icon-1756x2048-8d11fkye.png"/> AWS SES
 
 <img align="center" height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png"/> Kafka
 
