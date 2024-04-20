@@ -27,7 +27,7 @@
 
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
 
-<img align="center" height="30" src="(https://miro.medium.com/v2/resize:fit:360/1*h78te1Nr-bUgqCtmFylC_g.png)"/> AWS EC2
+<img align="center" height="30" src="https://miro.medium.com/v2/resize:fit:360/1*h78te1Nr-bUgqCtmFylC_g.png"/> AWS EC2
 
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS Lambda
 
