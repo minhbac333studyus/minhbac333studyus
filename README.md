@@ -5,7 +5,8 @@
 
 ## Hello there! 👋🏻
 
-📌 I am **Anh Minh Le**, accomplished Full Stack Java Developer with a robust 5-year track record in leveraging J2EE, Angular 2+, and Spring Boot. Proven ability to guide teams towards the successful execution of complex projects. Experienced in architecting scalable, high-efficiency solutions in the finance, healthcare, and public sector. Skilled in exploiting AWS services for optimized database administration and automated email communications. Proficient across the complete software development lifecycle, from system blueprinting to its deployment.
+📌 I am **Anh Minh Le**, accomplished Full Stack Java Developer with a robust 5-year track record in leveraging J2EE, Angular 2+, and Spring Boot. Proven ability to **guide teams towards the successful** execution of complex projects. Experienced in **architecting scalable, high-efficiency solutions** in the finance, healthcare, and public sector. Skilled in exploiting **AWS services for optimized database administration and automated email communications**. Proficient across the complete software **development lifecycle**, from system blueprinting to its deployment.
+
 📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. `Self-learning ability` and `passion for my work` are the key factors towards my success.
 
 
