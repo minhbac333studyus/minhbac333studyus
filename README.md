@@ -1,8 +1,3 @@
-
-<p align="center"><img width="450" height="450" src="https://user-images.githubusercontent.com/37564253/101704526-9236fc00-3a4a-11eb-8744-a212ec58e037.jpg" alt="Intro" /></p>
- 
-
-
 ## Hello there! 👋🏻
 
 📌 I am **Anh Minh Le**, accomplished Full Stack Java Developer with a robust 5-year track record in leveraging J2EE, Angular 2+, and Spring Boot. Proven ability to **guide teams towards the successful** execution of complex projects. Experienced in **architecting scalable, high-efficiency solutions** in the finance, healthcare, and public sector. Skilled in exploiting **AWS services for optimized database administration and automated email communications**. Proficient across the complete software **development lifecycle**, from system blueprinting to its deployment.
@@ -67,3 +62,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=minhbac333studyus&show_icons=true&count_private=true&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api?username=minhbac333studyus&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=tokyonight" alt="Jaynil's github stats" /></a>
 <a href="https://github.com/minhbac333studyus?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhbac333studyus&theme=tokyonight&layout=compact" alt="Top Languages"/></a>
 
+
+<p align="center"><img width="450" height="450" src="https://user-images.githubusercontent.com/37564253/101704526-9236fc00-3a4a-11eb-8744-a212ec58e037.jpg" alt="Intro" /></p>
+ 
