@@ -36,7 +36,7 @@
 
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS SES
 
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/apache-kafka.png"/> Kafka
+<img align="center" height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png"/> Kafka
 
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/tomcat.png"/> Tomcat
 
