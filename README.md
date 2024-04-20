@@ -35,7 +35,7 @@
 
 <img align="center" height="30" src="https://static-00.iconduck.com/assets.00/aws-sqs-simple-queue-service-icon-424x512-lkqfmttm.png"/> AWS SQS
 
-<img align="center" height="30" src="[https://static-00.iconduck.com/assets.00/aws-ses-simple-email-service-icon-1756x2048-8d11fkye.png"/> AWS SES
+<img align="center" height="30" src="https://static-00.iconduck.com/assets.00/aws-ses-simple-email-service-icon-1756x2048-8d11fkye.png"/> AWS SES
 
 <img align="center" height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png"/> Kafka
 
