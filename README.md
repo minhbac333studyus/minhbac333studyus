@@ -17,18 +17,28 @@
 
  - 💻 *Front-End Development*<img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/><img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> 
 
- - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/><img align="center" height="30" src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/> 
+ - 💻 *Backend Development and Database Management*
+<img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/>
+<img align="center" height="30" src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png"/> 
 
 - 💻 *Backend Frameworks & Technologies*
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> Spring Boot
+
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
+
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS EC2
+
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS Lambda
+
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> API Gateway
+
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS SQS
+
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS SES
+
 <img align="center" height="30" src="https://img.icons8.com/color/48/000000/apache-kafka.png"/> Kafka
-<img align="center" height="30" src="https://img.icons8.com/color/48/000000/wildfly.png"/> Wildfly
+
+<img align="center" height="30" src="https://img.icons8.com/color/48/000000/tomcat.png"/> Tomcat
 
 <br/>
 
