@@ -12,7 +12,7 @@
 
 📌 My technical skills include :
 
- <!-- - 💻 *Languages* (**`C, Java, Python, Swift)-->
+ <!-- - 💻 *Languages* (**`Java, Python, Swift)-->
  - 💻 *Languages*   <img align="center" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> 
 
  - 💻 *Front-End Development*<img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/><img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> 
