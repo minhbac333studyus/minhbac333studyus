@@ -5,14 +5,13 @@
 
 ## Hello there! 👋🏻
 
-📌 I am **Anh Minh Le**, pursuing `Bachelor of Science` from *Angelo State University - San Angelo, Texas*. I am interested in learning new technologies and build exciting real-world projects.
-
+📌 I am **Anh Minh Le**, accomplished Full Stack Java Developer with a robust 5-year track record in leveraging J2EE, Angular 2+, and Spring Boot. Proven ability to guide teams towards the successful execution of complex projects. Experienced in architecting scalable, high-efficiency solutions in the finance, healthcare, and public sector. Skilled in exploiting AWS services for optimized database administration and automated email communications. Proficient across the complete software development lifecycle, from system blueprinting to its deployment.
 📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. `Self-learning ability` and `passion for my work` are the key factors towards my success.
 
 
 📌 My technical skills include :
 
- <!-- - 💻 *Languages* (**`Java, Python, Swift)-->
+ <!-- - 💻 *Languages* (**`Java, Python)-->
  - 💻 *Languages*   <img align="center" height="30" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png"/> 
 
  - 💻 *Front-End Development*<img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/typescript.png"/><img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> 
